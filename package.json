@@ -1,0 +1,17 @@
+{
+  "name": "angry-squid",
+  "version": "1.0.0",
+  "description": "A bot that replace swearing by a squid",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "darknew",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
